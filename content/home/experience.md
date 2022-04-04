@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Professional Experience
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Graduate student
+    company: Seoul National University <br/>Interdisciplinary Program in Neuroscience M.S. Program
+    company_url: 'https://snu.ac.kr'
+    company_logo: SNU_logo
+    location: Seoul
+    date_start: '2021-03-02'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Researched Neuroscience and Molecular biology.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Researcher
+    company: Seoul National University College of Medicine <br/>Department of Physiology and Biomedical Sciences
+    company_url: 'https://medicine.snu.ac.kr'
+    company_logo: SNU_logo
+    location: Seoul
+    date_start: '2020-03-02'
+    date_end: '2021-02-28'
+    description: Researched Neuroscience and Molecular biology.
 
 design:
   columns: '2'

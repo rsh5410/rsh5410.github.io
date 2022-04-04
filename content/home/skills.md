@@ -16,18 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: DNA Cloning, DNA Prep, AAV Production, CRISPR/Cas9 Design
+  icon: dna
+  icon_pack: custom
+  name: Molecular Work
+- description: Primary Cell Culture, Transfection, Immunocytochemistry
+  icon: cellwork
+  icon_pack: custom
+  name: Cell/Neuronal Cell Work
+- description: SDS-PAGE(with Staining), Western Blot, Immunoprecipitation
+  icon: westernblot
+  icon_pack: custom
+  name: Protein Work
+- description: In-utero Electroporation
+  icon: mouse
+  icon_pack: custom
+  name: Tissue Level Work
+- description: Morphological Imaging, Live Cell Imaging, Physiological Imaging(iGluSnFR, GCaMP, pHluorin...), Super Resolution Imaging(STORM, ExM...)
+  icon: microscope
+  icon_pack: custom
+  name: Bio-Imaging
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

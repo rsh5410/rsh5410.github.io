@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Seung Hyun Ryu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student of Neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Seoul National University
+  url: https://www.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Neuroscience, Molecular biology, and Bio-imaging.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neuroscience
+- Physiology
+- Molecular biology
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.S. in Interdisciplinary Program in Neuroscience 
+    institution: Seoul National University 
+    year: 2023 (expected)
+  - course: B.E. in Department of Control and Instrumentation Engineering and Department of Biomedical Engineering (double major)
+    institution: Korea University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,35 +40,44 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=5H0HvYoAAAAJ&hl=ko&oi=ao
+- icon: pubmed
+  icon_pack: ai	
+  link: https://pubmed.ncbi.nlm.nih.gov/?term=Seung+Hyun+Ryu
+- icon: orcid
+  icon_pack: ai	
+  link: https://orcid.org/0000-0002-6787-8243
+- icon: researchgate
+  icon_pack: ai	
+  link: https://www.researchgate.net/profile/Seung-Hyun-Ryu
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/rsh5410
+- icon: instagram
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.instagram.com/reizendes_hyun/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/RSH_CV_.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "rsh5410@snu.ac.kr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Seung Hyun Ryu is a graduate student of neuroscience at the Seoul National University. He entered the Laboratory of Neural Functions and Bio-imaging with an interest in neural mechanisms and neurophysiology. His current research interests include finding presynaptic trafficking mechanisms and presynaptic homeostatic plasticity.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is a co-author of two journal papers–PNAS and Mol Brain(~2021)– and a recipient of many honors and awards, including the Research Grant of Basic Science Research Program(2022). He was also a teaching assistant in General physics(2017), Seminars in neuroscience 1(2022), and Principles of neurosciences 1(2022).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+He likes to talk and discuss with all neuro folks. Glad to see you on this site.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RSH_CV_.pdf" "newtab" >}}CV{{< /staticref >}}.

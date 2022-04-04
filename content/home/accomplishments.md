@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Honors & Awards'
 subtitle:
 
 # Date format
@@ -23,30 +23,46 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2016-03-02"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Korea University
+  organization_url: 
+  title: Academic Excellence Award
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  date_start: "2016-09-01"
+  description: Annual Academic Conference on Control and Instrumentation Engineering
+  organization: Korea University.
+  organization_url: 
+  title: Poster Award
+  url: 
+- certificate_url: 
+  date_end: ""
+  date_start: "2017-09-01"
+  description: Annual Academic Conference on Electro-Mechanical Systems Engineering
+  organization: Korea University.
+  organization_url: 
+  title: Poster Award
+  url: 
+- certificate_url: 
+  date_end: ""
+  date_start: "2018-09-01"
+  description: Annual Capstone Design Conference
+  organization: Korea University.
+  organization_url: 
+  title: Poster Award
+  url: 
+- certificate_url: 
+  date_end: "2023-02-28"
+  date_start: "2022-03-02"
+  description: 
+  organization: Seoul National University
+  organization_url: 
+  title: Research Grant of Basic Science Research Program
+  url: 
 
 design:
   columns: '2' 

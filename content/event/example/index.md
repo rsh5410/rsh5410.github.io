@@ -1,44 +1,46 @@
 ---
-title: Example Talk
+title: Experiment Protocol Workshop
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Experiment Protocol Workshop
+event_url: https://www.brainkorea21.org/centernews/seminar?md=v&bbsidx=1478
 
-location: Wowchemy HQ
+location: Seoul National University College of Medicine
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 103 Daehak-ro 
+  city: Jongno-gu
+  region: Seoul
+  postcode: '03080'
+  country: Republic of Korea
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: To learn about Expansion Microscopy(ExM) imaging method
+abstract: "How small scale do you want to image? There are many super-resolution imaging techniques like STORM, STED, PALM... However, those techniques require expert skills and equipment to get one high-resolution image.<br>
+Expansion microscopy(ExM), nanoscale imaging technique with a conventional fluorescent microscope makes it easier to get super-resolution images. This uses water-swellable polymer expanding samples(as 4x - 20x in each dimension) with deionized water.<br>
+Today, Kitae Kim and I will show you how to immunostain β-tubulin on Cos-7 cells, transfer protein signals to polymer gels, expand polymer gels, and image ExM. We also analyze samples verifying expansion ratio with many proven methods.  "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-03-26T14:00:00Z'
+date_end: '2022-03-26T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
-tags: []
+authors: [Kitae Kim and Seung Hyun Ryu]
+tags: [Neuroscience, Protocol, Workshop, ExM]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Seung Hyu Ryu**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -49,25 +51,19 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+# projects:
+# - 
 ---
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
-Slides can be added in a few ways:
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
