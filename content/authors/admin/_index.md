@@ -74,10 +74,10 @@ email: "rsh5410@snu.ac.kr"
 highlight_name: true
 ---
 
-Seung Hyun Ryu is a graduate student of neuroscience at the Seoul National University. He entered the Laboratory of Neural Functions and Bio-imaging with an interest in neural mechanisms and neurophysiology. His current research interests include finding presynaptic trafficking mechanisms and presynaptic homeostatic plasticity.
+Seung Hyun Ryu is a graduate student of neuroscience at the Seoul National University. He entered the Laboratory of Neural Functions and Bio-imaging with an interest in neural mechanisms and neurophysiology. His current research interests include finding presynaptic trafficking mechanisms and presynaptic homeostatic plasticity (PHP).
 
-He is a co-author of two journal papers–PNAS and Mol Brain(~2021)– and a recipient of many honors and awards, including the Research Grant of Basic Science Research Program(2022). He was also a teaching assistant in General physics(2017), Seminars in neuroscience 1(2022), and Principles of neurosciences 1(2022).
+He is a co-author of two journal papers–PNAS and Mol Brain(~2021)– and a recipient of many honors and awards, including the Research Grant of Basic Science Research Program(2022-2023). He was also a teaching assistant in General physics(2017), Seminars in neuroscience 1(2022), and Principles of neurosciences 1(2022).
 
-He likes to talk and discuss with all neuro folks. Glad to see you on this site.
+He likes to talk and discuss with all neuro-folks. Glad to see you on this site!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RSH_CV_.pdf" "newtab" >}}CV{{< /staticref >}}.

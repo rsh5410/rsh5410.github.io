@@ -34,26 +34,26 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2016-09-01"
-  description: Annual Academic Conference on Control and Instrumentation Engineering
+  description: Annual Academic Conference on Control and Instrumentation Engineering <br>(Poster - Sound Activated Multi Color LED Cube)
   organization: Korea University.
   organization_url: 
-  title: Poster Award
+  title: Poster Award 
   url: 
 - certificate_url: 
   date_end: ""
   date_start: "2017-09-01"
-  description: Annual Academic Conference on Electro-Mechanical Systems Engineering
+  description: Annual Academic Conference on Electro-Mechanical Systems Engineering <br>(Poster - Self Healthcare Device Using EOG Measurement)
   organization: Korea University.
   organization_url: 
-  title: Poster Award
+  title: Poster Award 
   url: 
 - certificate_url: 
   date_end: ""
   date_start: "2018-09-01"
-  description: Annual Capstone Design Conference
+  description: Annual Capstone Design Conference <br>(Poster - Image Based Doorlock System)
   organization: Korea University.
   organization_url: 
-  title: Poster Award
+  title: Poster Award 
   url: 
 - certificate_url: 
   date_end: "2023-02-28"
