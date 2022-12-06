@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Seung Hyun Ryu</title>
+    <link>https://rsh5410.github.io/project/</link>
+      <atom:link href="https://rsh5410.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rsh5410.github.io/media/icon_hu2c5c814519881c0e74ba0b162000b805_23619_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://rsh5410.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>00 Project</title>
+      <link>https://rsh5410.github.io/project/example/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://rsh5410.github.io/project/example/</guid>
+      <description>&lt;p&gt;000&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

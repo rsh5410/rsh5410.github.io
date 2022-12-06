@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcement | Seung Hyun Ryu</title>
+    <link>https://rsh5410.github.io/tag/announcement/</link>
+      <atom:link href="https://rsh5410.github.io/tag/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Announcement</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rsh5410.github.io/media/icon_hu2c5c814519881c0e74ba0b162000b805_23619_512x512_fill_lanczos_center_3.png</url>
+      <title>Announcement</title>
+      <link>https://rsh5410.github.io/tag/announcement/</link>
+    </image>
+    
+    <item>
+      <title>Welcome to everyone visiting my website!</title>
+      <link>https://rsh5410.github.io/post/welcome/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://rsh5410.github.io/post/welcome/</guid>
+      <description>&lt;p&gt;Thanks for visiting my website!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll upload my CV, Projects, Posts(not only academic also daily!)&amp;hellip; here!&lt;/p&gt;
+&lt;p&gt;I used Cushen&amp;rsquo;s theme uploaded on &amp;lsquo;wowchemy&amp;rsquo; and copyrights are under here.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Thanks for take time to visit here and read my message!&lt;/p&gt;
+&lt;p&gt;And. Have a nice day! :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
