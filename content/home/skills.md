@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: DNA Cloning, DNA Prep, AAV Production, CRISPR/Cas9 Design
+- description: DNA Cloning, DNA Prep, AAV Production, CRISPR/Cas9-Based Gene Editing
   icon: dna
   icon_pack: custom
   name: Molecular Work
-- description: Primary Cell Culture, Transfection, Immunocytochemistry
+- description: Primary Neuron Culture, Cell Transfection, Immunocytochemistry
   icon: cellwork
   icon_pack: custom
   name: Cell/Neuronal Cell Work

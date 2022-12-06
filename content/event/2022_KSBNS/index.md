@@ -12,7 +12,7 @@ address:
   postcode: '21998'
   country: Republic of Korea
 
-summary: SCAMP5 G180W mutant reduced some protein interaction with SCAMP5 compared with SCAMP5 WT
+summary: The 25th Annual Meeting of the Korean Society for Brain and Neural Sciences (KSBNS)
 abstract: "Secretory carrier membrane protein 5 (SCAMP5), a brain-specific secretory vesicle component, plays an essential role in synaptic functions by regulating the cycle of synaptic vesicles and trafficking of synaptic proteins. In recent studies, mutation analysis in Intellectual disability (ID) and autism spectrum disorders (ASD) patients revealed that heterozygous variant (p.Gly180Trp) in SCAMP5 caused a dominant-negative effect on the wild-type (WT) allele, however, detailed molecular evidence has been largely lacking. Here, we engineered SCAMP5 WT and G180W mutant constructs by conjugating the TurboID construct, a biotin ligase-related proximity labelling tool, at the C-terminal and EGFP at the N-terminal region to identify the differences in interacting proteins. By using western blotting and immunocytochemistry analysis in HEK-293T cells, we found that the expression level and protein localization were not altered by G180W mutant, and biotinylated proteins were detected after biotin treatment, indicating that TurboID works in our experimental system well. Since SCAMP5 functions a crucial role in the presynaptic activity, we infected cultured rat hippocampal neurons with adeno-associated virus (AAV) packaging SCAMP5 WT and G180W constructs conjugated with TurboID. Through western blot analysis, we observed that some biotinylated proteins labelled by SCAMP5 G180W-TurboID were significantly reduced compared to those by SCAMP5 WT-TurboID. Since the pathophysiological mechanism of ID and ASD is implicated in genetic mutations, understanding the specific interaction proteome differences between SCAMP5 WT and G180W mutant can address the underpinning mechanisms related to neurodevelopmental disorders and propose the potential target for the therapeutic approach aimed to treat them."
 
 # Talk start and end times.
@@ -40,7 +40,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "event/2022_KSBNS/2022_KSBNS_Poster_RSH.pdf"
+url_pdf: uploads/2022_KSBNS_Poster_RSH_.pdf
 url_slides: ""
 url_video: ""
 

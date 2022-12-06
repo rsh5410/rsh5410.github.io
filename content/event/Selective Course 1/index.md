@@ -1,5 +1,5 @@
 ---
-title: Selective Course 1 (Course of SNU Medicine) - Tissue Clearing & Expansion Microscopy method
+title: Tissue Clearing & Expansion Microscopy Methods for Medical Application
 
 event: Selective Course 1 (Course of SNU Medicine)
 event_url: 
@@ -12,7 +12,7 @@ address:
   postcode: '03080'
   country: Republic of Korea
 
-summary: To learn about tissue clearing and expansion microscopy(ExM) imaging method
+summary: Selective Course 1 (Course of SNU Medicine)
 abstract: "
 3D Tissue clearing is the technique that enhanced 3D volume imaging resolution with many approaches: delipidation, decolourization, decalcification, and refractive index(RI) matching.<br> 
 Expansion microscopy(ExM), a nanoscale imaging technique with a conventional fluorescent microscope makes it easier to get super-resolution images. It uses water-swellable polymer expanding samples(as 4x - 20x in each dimension) with deionized water.<br>

@@ -1,5 +1,5 @@
 ---
-title: Experiment Protocol Workshop
+title: Expansion Microscopy(ExM) Imaging Method
 
 event: Experiment Protocol Workshop
 event_url: https://www.brainkorea21.org/centernews/seminar?md=v&bbsidx=1478
@@ -12,7 +12,7 @@ address:
   postcode: '03080'
   country: Republic of Korea
 
-summary: To learn about expansion microscopy(ExM) imaging method
+summary: Experiment Protocol Workshop
 abstract: "How small scale do you want to image? There are many super-resolution imaging techniques like STORM, STED, PALM... However, those techniques require expert skills and equipment to get one high-resolution image.<br>
 Expansion microscopy(ExM), a nanoscale imaging technique with a conventional fluorescent microscope makes it easier to get super-resolution images. It uses water-swellable polymer expanding samples(as 4x - 20x in each dimension) with deionized water.<br>
 Today, Kitae Kim and I will show you how to immunostain β-tubulin on Cos-7 cells, transfer protein signals to polymer gels, expand polymer gels, and image ExM. We also analyze samples verifying expansion ratio with many proven methods.  "
