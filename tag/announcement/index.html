@@ -64,7 +64,7 @@
   
     
   
-  <meta name="description" content="Seung Hyun Ryu." />
+  <meta name="description" content="Graduate Student of Neuroscience" />
 
   
   <link rel="alternate" hreflang="en-us" href="https://rsh5410.github.io/tag/announcement/" />
@@ -244,6 +244,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E7ZWWV4CHS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-E7ZWWV4CHS', { 'anonymize_ip': true });
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -295,7 +334,7 @@
   <meta property="og:site_name" content="Seung Hyun Ryu" />
   <meta property="og:url" content="https://rsh5410.github.io/tag/announcement/" />
   <meta property="og:title" content="Announcement | Seung Hyun Ryu" />
-  <meta property="og:description" content="Seung Hyun Ryu." /><meta property="og:image" content="https://rsh5410.github.io/media/icon_hu2c5c814519881c0e74ba0b162000b805_23619_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:description" content="Graduate Student of Neuroscience" /><meta property="og:image" content="https://rsh5410.github.io/media/icon_hu2c5c814519881c0e74ba0b162000b805_23619_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://rsh5410.github.io/media/icon_hu2c5c814519881c0e74ba0b162000b805_23619_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
