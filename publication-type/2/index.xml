@@ -5,12 +5,31 @@
     <link>https://rsh5410.github.io/publication-type/2/</link>
       <atom:link href="https://rsh5410.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rsh5410.github.io/media/icon_hu2c5c814519881c0e74ba0b162000b805_23619_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://rsh5410.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Statistically unbiased prediction enables accurate denoising of voltage imaging data</title>
+      <link>https://rsh5410.github.io/publication/5/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://rsh5410.github.io/publication/5/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>L-type Ca2&#43; channels mediate regulation of glutamate release by subthreshold potential changes</title>
