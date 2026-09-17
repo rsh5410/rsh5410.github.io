@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presynapse | Seung Hyun Ryu</title>
+    <link>https://rsh5410.github.io/tag/presynapse/</link>
+      <atom:link href="https://rsh5410.github.io/tag/presynapse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Presynapse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Sep 2026 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rsh5410.github.io/media/icon_hu2c5c814519881c0e74ba0b162000b805_23619_512x512_fill_lanczos_center_3.png</url>
+      <title>Presynapse</title>
+      <link>https://rsh5410.github.io/tag/presynapse/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptional control of presynaptic gene expression and function </title>
+      <link>https://rsh5410.github.io/talk/transcriptional-control-of-presynaptic-gene-expression-and-function/</link>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+      <guid>https://rsh5410.github.io/talk/transcriptional-control-of-presynaptic-gene-expression-and-function/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
